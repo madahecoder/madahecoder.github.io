@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## [madahecoder的博客](https://github.com/madahecoder/madahecoder.github.io/edit/master/README.md)
+
+### [单例模式最佳实现]((https://github.com/madahecoder/madahecoder.github.io/edit/master/blog.md))
 
 You can use the [editor on GitHub](https://github.com/madahecoder/madahecoder.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
